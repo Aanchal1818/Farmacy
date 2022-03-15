@@ -57,6 +57,8 @@ p {
 }
 #result {
     display: none;
+    margin-top: 2rem;
+    /* background: url("https://www.foodbusinessnews.net/ext/resources/2021/8/CanadaWheatField_Lead.jpg?t=1631711814&width=1080"); */
 }
 /* End of result */
 
