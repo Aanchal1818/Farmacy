@@ -11,7 +11,7 @@ var loadFile = function () {
 
   setTimeout(myGreeting, 5000);
   function myGreeting() {
-    header.innerHTML = "Fin";
+    header.innerHTML = "Congrats your analysis is complete!";
     var resultEle = document.getElementById('result');
     image.style.display = "none";
     resultEle.style.display = "block";
